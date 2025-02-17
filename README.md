@@ -1,0 +1,41 @@
+# Cider Remote Android
+This is a unofficial remote client made by me, utilising remote apis of cider.  
+
+# Setup 
+Its practically a one time thing and settings will be saved for further use.
+
+## Setup on Cider
+### Settings for remote to work
+1. Open Cider Instance of PC/Linux/MacOS
+2. Click on three dots button (usually on top left side of cider)
+3. Go to settings and then to connectivity
+4. Scroll down turn on the WebSocketsApi
+5. Click on the manage button of the Manage External Applications
+6. Turn off the Require Api Tokens
+
+### Url for Client
+1. Click on three buttons
+2. Go to Help
+3. Click on Connect a Remote App
+4. Go to Pair option , Copy the host address
+5. Send this address to your Phone
+
+
+## Android Client Setup
+> [!NOTE]
+> Keep the actual cider instance On during this setup might even play some track.
+1. Install app open it (the app is linked under releases)
+2. Go to Setup option
+3. Paste the host address copied earlier add :10767 after host address
+4. It should look in the format http://Hostaddress:10767 for example (http://192.164.2.5:10767)
+5. Click Submit
+6. If something is playing on your cider app itself it would reflect in the remote , just go to controls and check
+
+## Screenshots
+<div>
+<img src="/screenshots/Controls.png" width="200"/>
+<img src="/screenshots/Queue.png" width="200" hspace="20"/>
+</div>
+
+## Bugs and Crashes
+Ping me up on the cider discord server if you find bugs or the app is crashing
