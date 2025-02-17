@@ -1,5 +1,5 @@
 # Cider Remote Android
-This is a unofficial remote client made by me, utilising remote apis of cider.  
+This is an unofficial remote client made by me, utilising remote apis of cider.  
 
 # Setup 
 Its practically a one time thing and settings will be saved for further use.
