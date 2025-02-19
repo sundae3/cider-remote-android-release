@@ -35,8 +35,9 @@ Its practically a one time thing and settings will be saved for further use.
 
 ## Screenshots
 <p>
-<img src="/screenshots/Controls.png" width="200" hspace="20"/>
-<img src="/screenshots/Queue.png" width="200" hspace="20"/>
+<img src="/screenshots/Controls.png" width="200"/>
+  &nbsp;&nbsp;&nbsp;
+<img src="/screenshots/Queue.png" width="200"/>
 </p>
 
 ## Upcoming 
