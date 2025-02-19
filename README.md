@@ -34,10 +34,10 @@ Its practically a one time thing and settings will be saved for further use.
 6. If something is playing on your cider app itself it would reflect in the remote , just go to controls and check
 
 ## Screenshots
-<div>
-<img src="/screenshots/Controls.png" width="200"/>
+<p>
+<img src="/screenshots/Controls.png" width="200" hspace="20"/>
 <img src="/screenshots/Queue.png" width="200" hspace="20"/>
-</div>
+</p>
 
 ## Upcoming 
 Multiple instance/device support(switching the source) will be added in the future release.
