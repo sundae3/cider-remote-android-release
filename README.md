@@ -3,6 +3,8 @@ This is an unofficial remote client made by me, utilising remote apis of cider.
 
 # Setup 
 Its practically a one time thing and settings will be saved for further use.
+> [!TIP]
+> It is recommended to use this app in LAN setup(same wifi type setup), WAN mode might cause issues and delays.
 
 ## Setup on Cider
 ### Settings for remote to work
@@ -36,6 +38,9 @@ Its practically a one time thing and settings will be saved for further use.
 <img src="/screenshots/Controls.png" width="200"/>
 <img src="/screenshots/Queue.png" width="200" hspace="20"/>
 </div>
+
+## Upcoming 
+Multiple instance/device support(switching the source) will be added in the future release.
 
 ## Bugs and Crashes
 Ping me up on the cider discord server if you find bugs or the app is crashing
