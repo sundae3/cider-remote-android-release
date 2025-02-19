@@ -1,5 +1,7 @@
 # Cider Remote Android
 This is an unofficial remote client made by me, utilising remote apis of cider.  
+> [!IMPORTANT]
+> This app is an independent project and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Cider Collective LLC. All product names, trademarks, and registered trademarks are the property of their respective owners. The use of any names, logos, or brands is for identification purposes only and does not imply endorsement. The creators of this app are solely responsible for its content and functionality.
 
 # Setup 
 Its practically a one time thing and settings will be saved for further use.
